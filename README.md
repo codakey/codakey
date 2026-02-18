@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://codakey.io/images/logo-dark.png" alt="Codakey" width="200" />
+<img src="https://codakey.io/opengraph-image.png" alt="Codakey" width="720" />
 
 ### Learn open-source projects by playing a typing game.
 
