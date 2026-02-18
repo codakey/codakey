@@ -18,14 +18,6 @@
 
 Instead of passively reading docs, you **type actual code**, learn how projects are structured, and build muscle memory for real-world patterns — all while earning XP, leveling up, and unlocking upgrades.
 
-<div align="center">
-
-https://github.com/user-attachments/assets/placeholder
-
-*Type real code from open-source projects. Earn XP. Level up.*
-
-</div>
-
 ## How it works
 
 ```
