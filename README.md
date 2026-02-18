@@ -48,19 +48,12 @@ https://github.com/user-attachments/assets/placeholder
 
 [Next.js](https://nextjs.org) | [Phaser 3](https://phaser.io) | [React 19](https://react.dev) | [TypeScript](https://typescriptlang.org) | [Drizzle ORM](https://orm.drizzle.team) | [Tailwind CSS](https://tailwindcss.com) | [Cloudflare](https://cloudflare.com)
 
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [**codakey.io**](https://github.com/codakey/codakey.io) | Main monorepo — app, static site, analysis worker |
-
 ## Get involved
 
-We're building Codakey in the open. Star the repo, try the game, and let us know what you think.
+We're building Codakey in the open. Try the game and let us know what you think.
 
 - [Play the game](https://app.codakey.io)
 - [Browse projects](https://codakey.io/projects)
-- [Report a bug or request a feature](https://github.com/codakey/codakey.io/issues)
 
 ---
 
